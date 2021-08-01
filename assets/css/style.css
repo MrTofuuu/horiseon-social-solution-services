@@ -68,6 +68,11 @@ h4 {
     font-size: 20px;
 }
 
+article{
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 footer {
     padding: 30px;
     clear: both;
@@ -127,6 +132,6 @@ footer {
     max-width: 150px;
 }
 
-.article img {
+.content img {
     max-height: 200px;
 }
