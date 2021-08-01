@@ -95,8 +95,6 @@ p {
     margin-left: 20px;
 }
 
-
-
 .benefits {
     margin-right: 20px;
     margin-bottom: 32px;
@@ -118,10 +116,7 @@ p {
     max-width: 150px;
 } */
 
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+
 /* Delete all benefit classes that deal with bottom margin and color  */
 .benefit-lead {
     margin-bottom: 32px;
