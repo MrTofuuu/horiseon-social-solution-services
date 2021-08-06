@@ -31,7 +31,7 @@ The current code for Horiseon does not follow HTML semantics and has some repeat
 
 5. Added alt attributes to image for accesibility
 
-6. Fixed link for "Search Engine Optimization" that was not linking to proper 
+6. Fixed link for "Search Engine Optimization" that was not linking to proper area
 
 7. Elements following a logical structure independent of styling and position
 
