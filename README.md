@@ -44,8 +44,7 @@ The current code for Horiseon does not follow HTML semantics and has some repeat
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon top part of webpage includes a navigation bar, a header image.](./Assets/images/screenshot-top.png)
-![The Horiseon bottom part of webpage includes cards with text and images at the bottom of the page](./Assets/images/screenshot-bot.png)
+![Horiseon Webpage](./Assets/images/horiseon.gif)
 
 ### **Links**
 
