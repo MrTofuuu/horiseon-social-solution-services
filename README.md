@@ -44,7 +44,7 @@ The current code for Horiseon does not follow HTML semantics and has some repeat
 
 The following image shows the web application's appearance and functionality:
 
-![Horiseon Webpage](https://gph.is/g/EBNn98X)
+![Horiseon Webpage](https://media.giphy.com/media/5bvTDZCrJMj7JqWDmF/giphy.gif)
 
 ### **Links**
 
